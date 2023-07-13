@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1025857214283",
+    "project_id": "monoapp-d9109",
+    "storage_bucket": "monoapp-d9109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025857214283:android:ea709800fec44fd89dface",
+        "android_client_info": {
+          "package_name": "com.monoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025857214283-1t49e3udic1qjn30ajeoerutgd63vrfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monoapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1025857214283-b7c9k4f954gt7sbnc11f0hpd33qh4388.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDrosK9_wuMz82fB1WtEKeSUOKiltb9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025857214283-b7c9k4f954gt7sbnc11f0hpd33qh4388.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
