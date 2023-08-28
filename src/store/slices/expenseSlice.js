@@ -6,9 +6,7 @@ const expenseSlice = createSlice({
 		amount: "",
 		date: new Date().toDateString(),
 		invoice: "",
-		title: "",
-	},
-	reducers: {
+		title: "", }, reducers: {
 		setExpenseCategory(state, action) {
 			state["category"] = action.payload;
 		},
@@ -38,6 +36,7 @@ const expenseSlice = createSlice({
 		},
 	},
 });
+
 
 export const {
 	setExpenseCategory,

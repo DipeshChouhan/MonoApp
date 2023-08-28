@@ -36,5 +36,4 @@ const ShowSnackbar = (type) => {
 ShowSnackbar.ERROR = 2;
 ShowSnackbar.WARNING = 1;
 ShowSnackbar.SUCCESS = 0;
-
 export default ShowSnackbar;
